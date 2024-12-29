@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my B.Tech in Computer Science And Engineering from NIT Silchar<br>👯 I’m looking to collaborate on Developing Cross Platform Applications  <br>🌱 I’m currently learning problem solving using Data Structures And Algorithms<br>💬 Ask me about anything here.<br>⚡ Fun fact:  The first computer programmer was a woman named Ada Lovelace.
+🔭 I’m currently pursuing my B.Tech in Computer Science And Engineering from NIT Silchar<br>👯 I’m looking to collaborate on Developing Cross Platform Applications  <br>🌱 I’m currently learning problem solving using Data Structures And Algorithms<br>💬 Ask me about anything here.<br>.
 
 
 ## 🌐 Socials:
